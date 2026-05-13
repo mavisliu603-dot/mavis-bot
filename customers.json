@@ -1,0 +1,176 @@
+{
+  "166352773996725@lid": {
+    "name": "Customer",
+    "number": "166352773996725@lid",
+    "lang": "en",
+    "status": "contacted",
+    "history": [
+      {
+        "role": "user",
+        "content": ""
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      },
+      {
+        "role": "user",
+        "content": ""
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      }
+    ],
+    "firstContact": "2026-05-12T00:03:37.300Z",
+    "lastContact": "2026-05-12T00:03:41.027Z"
+  },
+  "66847055573231@lid": {
+    "name": "Ashwin",
+    "number": "66847055573231@lid",
+    "lang": "en",
+    "status": "contacted",
+    "history": [
+      {
+        "role": "user",
+        "content": "Hello"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      },
+      {
+        "role": "user",
+        "content": "Good morning"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      }
+    ],
+    "firstContact": "2026-05-12T01:21:00.325Z",
+    "lastContact": "2026-05-12T01:21:03.396Z"
+  },
+  "141347491180795@lid": {
+    "name": "EMBIZPLUS enterprises",
+    "number": "141347491180795@lid",
+    "lang": "en",
+    "status": "contacted",
+    "history": [
+      {
+        "role": "user",
+        "content": "Can I see the pictures of the ones you have"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      },
+      {
+        "role": "user",
+        "content": "Can I see what you have?"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      }
+    ],
+    "firstContact": "2026-05-12T01:24:44.370Z",
+    "lastContact": "2026-05-12T01:59:39.059Z"
+  },
+  "138530646958084@lid": {
+    "name": "Customer",
+    "number": "138530646958084@lid",
+    "lang": "zh",
+    "status": "contacted",
+    "history": [
+      {
+        "role": "user",
+        "content": ""
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      },
+      {
+        "role": "user",
+        "content": "Hi"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      },
+      {
+        "role": "user",
+        "content": "收到？"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊\nThank you for reaching out!\nWe specialize in Fan Lights, Energy Storage & Emergency Power solutions.\nHow can I help you today?\n\nMavis | Brivolux"
+      }
+    ],
+    "firstContact": "2026-05-12T02:08:02.766Z",
+    "lastContact": "2026-05-12T06:02:04.397Z"
+  },
+  "235867473989762@lid": {
+    "name": "Mavis L",
+    "number": "235867473989762@lid",
+    "country": "",
+    "lang": "en",
+    "status": "contacted",
+    "score": 0,
+    "history": [
+      {
+        "role": "user",
+        "content": "Hello"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊 We specialize in fan lights, energy storage & emergency power solutions. Which country are you from? That'll help me recommend the best options for you!"
+      },
+      {
+        "role": "user",
+        "content": "I need fan light"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi! I'm Mavis from Brivolux 😊 We specialize in fan lights, energy storage & emergency power solutions. Which country are you from? That'll help me recommend the best options for you!"
+      }
+    ],
+    "interests": [],
+    "quotes": [],
+    "totalChats": 2,
+    "firstContact": "2026-05-12T15:14:50.736Z",
+    "lastContact": "2026-05-12T15:16:37.091Z"
+  },
+  "234449849577499@lid": {
+    "name": "Mavis",
+    "number": "234449849577499@lid",
+    "country": "",
+    "lang": "zh",
+    "status": "contacted",
+    "score": 0,
+    "history": [
+      {
+        "role": "user",
+        "content": "你好"
+      },
+      {
+        "role": "assistant",
+        "content": "你好！我是Brivolux的Mavis 😊 我们做风扇灯、储能和应急电源。请问您来自哪个国家？"
+      },
+      {
+        "role": "user",
+        "content": "尼日利亚"
+      },
+      {
+        "role": "assistant",
+        "content": "你好！我是Brivolux的Mavis 😊 我们做风扇灯、储能和应急电源。请问您来自哪个国家？"
+      }
+    ],
+    "interests": [],
+    "quotes": [],
+    "totalChats": 2,
+    "firstContact": "2026-05-13T06:00:58.204Z",
+    "lastContact": "2026-05-13T06:01:16.156Z"
+  }
+}
